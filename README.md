@@ -1,2 +1,2 @@
 # Data-science-projects
-Just contains a few of my projects
+A catalogue of my study Journey on Data Science
